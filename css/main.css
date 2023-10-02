@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+li {
+  list-style: none;
+}
+
+.principal-font {
+  font-family: "Poppins", sans-serif;
+}
+
+.secondary-font {
+  font-family: "Volkhov", serif;
+  font-weight: 700;
+}
+
+.bg-color-principal {
+  background: #fa7436;
+  color: white;
+}
+
+.text-color-principal {
+  color: #fa7436;
+}
+
+.text-color-secondary {
+  color: #666;
+}
+
+.border-color-primary {
+  border-color: #fa7436;
+}
+
+.margin-top-personal {
+  margin-top: 6rem;
+}
+
+.font-size-personal {
+  font-size: 0.8rem;
+}
+
+.shadow-personal {
+  -webkit-box-shadow: 3px -1px 64px -18px rgba(250, 116, 54, 1);
+  -moz-box-shadow: 3px -1px 64px -18px rgba(250, 116, 54, 1);
+  box-shadow: 3px -1px 64px -18px rgba(250, 116, 54, 1);
+}
+
+.w-personal {
+  width: 60% !important;
+}
